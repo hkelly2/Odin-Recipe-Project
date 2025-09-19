@@ -19,3 +19,4 @@ I used this project to practice very basic css by adding color and alignment to 
 
 I also looked to other recipe websites and noticed that many recipes included personal stories and extra information beyond the recipe in the description. I was inspired to include my own made up stories to make this project feel more like a real reicpe blog.
 ## Live Demo
+https://hkelly2.github.io/Odin-Recipe-Project/index.html
