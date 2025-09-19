@@ -4,6 +4,7 @@
 This is my solution for the Odin Project's recipe project.
 
 ## Screenshots
+![Screenshot](/media/Screenshot%20(797).png "Screenshot")
 
 ## Future Improvements
 - More recipes
